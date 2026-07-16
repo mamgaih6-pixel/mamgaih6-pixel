@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **mamgaih6@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on:** Full Stack Software Development 
 - 🌱 **I’m currently learning:** Python, Data Science
 - 👯 **I’m looking to collaborate on:** Student Management System (EduManage)
 - 🤔 **I’m looking for help with:** Student Management System
